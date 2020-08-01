@@ -1,0 +1,4 @@
+#Sat Aug 01 13:13:57 SGT 2020
+base.0=C\:\\Users\\Sam Kuen\\AndroidStudioProjects\\android-advanced-master\\FragmentExample2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
